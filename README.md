@@ -15,7 +15,7 @@ The dataset contains information about customers, including:
 - **Engagement Metrics**: Number of purchases via web, catalog, or stores.
 - **Promotional Campaigns**: Response to previous marketing campaigns.
 
-📌 Dataset Source: *(Provide a dataset link if available)*  
+📌 Dataset Source: *(https://www.kaggle.com/code/analystoleksandra/marketing-analytics-customer-segmentation)*  
 📌 File Format: CSV / Excel  
 
 🔍 STEPS IN THE PROJECT
